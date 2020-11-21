@@ -1,0 +1,12 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "Nodejs Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh Chowdhary",
+  "license": "ISC",
+  "dependencies": {}
+}
